@@ -5,13 +5,16 @@
 * http://pongit.be/npm/javascript-testing-jasmine-getting-started/
 
 
-npm install jasmine
 npm install -g jasmine
+npm install jasmine-console-reporter --save-dev
+add helpers\customReporter.js
+
 jasmine init
 jasmine examples
-./node_modules/.bin/jasmine  ./spec/jasmine_examples/PlayerSpec.js
+jasmine
 
-npm install jasmine-console-reporter --save-dev
+
+
 
 
 # Jasmine Tutorial
