@@ -12,3 +12,10 @@ jasmine examples
 ./node_modules/.bin/jasmine  ./spec/jasmine_examples/PlayerSpec.js
 
 npm install jasmine-console-reporter --save-dev
+
+
+# Jasmine Tutorial
+
+[Code for bliki series on Jasmine][bliki-entry]
+
+[bliki-entry]: http://pongit.be/npm/javascript-testing-jasmine-getting-started/
