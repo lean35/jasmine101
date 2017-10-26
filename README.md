@@ -1,6 +1,10 @@
 ## Ref
 * https://jasmine.github.io/setup/nodejs.html
 
+# Jasmine Tutorial
+* http://pongit.be/npm/javascript-testing-jasmine-getting-started/
+
+
 npm install jasmine
 npm install -g jasmine
 jasmine init
